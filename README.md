@@ -57,4 +57,4 @@ With the continuous advancements in AI and NLP, we can expect even more powerful
 
 ---
 
-For more details and examples, please visit the [project repository](https://github.com/your-username/image-caption-generator).
+For more details and examples, please visit the [project repository](https://github.com/sdrahmath/image-caption-generator).
