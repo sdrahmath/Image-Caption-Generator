@@ -57,7 +57,7 @@ This project would not have been possible without the open-source contributions 
 The Image Caption Generator can be extended further by incorporating different transformer architectures, experimenting with beam search parameters, or fine-tuning the model on custom image-caption datasets. Moreover, integrating the application with cloud services like AWS or deploying it on platforms like Heroku can make it accessible to a broader audience.
 
 With the continuous advancements in AI and NLP, we can expect even more powerful and accurate image captioning models in the future, opening up new possibilities for multimedia understanding and generation.
-
+ 
 ---
 
 For more details and examples, please visit the [project repository](https://github.com/sdrahmath/image-caption-generator).
